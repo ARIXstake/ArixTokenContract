@@ -24,6 +24,8 @@
  * 
  * with our changes that are developed for staking 
  */
+ pragma solidity ^0.8.1;
+ 
  abstract contract ERC20 is Context, IERC20, IERC20Metadata {
     mapping (address => uint256) private _balances;
     mapping (address => uint256) private _freez;
