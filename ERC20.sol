@@ -67,7 +67,6 @@
         _monthSeconds=2628000;
         _deployTime=block.timestamp;
     }
-
     /**
      * @dev Returns the name of the token.
      */
