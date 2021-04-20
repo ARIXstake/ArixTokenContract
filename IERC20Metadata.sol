@@ -1,3 +1,4 @@
+pragma solidity ^0.8.1;
 /**
  * @dev Interface for the optional metadata functions from the ERC20 standard.
  */
