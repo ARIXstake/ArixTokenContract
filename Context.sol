@@ -8,7 +8,7 @@
  *
  * This contract is only required for intermediate, library-like contracts.
  */
-
+pragma solidity ^0.8.1;
 // File: @openzeppelin/contracts/GSN/Context.sol
 
 
